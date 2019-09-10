@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oreejaeloo.rachelchuckwedding.com/sitemap.xml
